@@ -1,0 +1,14 @@
+---
+documentclass: sfuthesis
+title: "Salmon are the coolest: implications for everything"
+author: XXX
+previousdegrees: 
+output:
+  pdf_document:
+    keep_tex: yes
+    latex_engine: xelatex 
+bibliography: references.bib
+---
+
+## Introduction
+
