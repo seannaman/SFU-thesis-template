@@ -313,14 +313,14 @@
 %   The copyright notice is set in a minipage to provide an extra margin of
 %   0.5" on either side.
 
-\newcommand{\@thesistype}{THESIS \@MissingMetadata{thesistype}}
-\newcommand{\@previousdegrees}{PREVIOUS DEGREES \@MissingMetadata{previousdegrees}}
-\newcommand{\@degree}{DEGREE \@MissingMetadata{degree}}
+\newcommand{\@thesistype}{ \@MissingMetadata{thesistype}}
+\newcommand{\@previousdegrees}{B.Sc \@MissingMetadata{previousdegrees}}
+\newcommand{\@degree}{ \@MissingMetadata{degree}}
 \newcommand{\@discipline}{} % optional
-\newcommand{\@department}{DEPARTMENT \@MissingMetadata{department}}
-\newcommand{\@faculty}{FACULTY \@MissingMetadata{faculty}}
-\newcommand{\@semester}{SEMESTER \@MissingMetadata{semester}}
-\newcommand{\@copyrightyear}{YEAR \@MissingMetadata{copyrightyear}}
+\newcommand{\@department}{\@MissingMetadata{department}}
+\newcommand{\@faculty}{\@MissingMetadata{faculty}}
+\newcommand{\@semester}{\@MissingMetadata{semester}}
+\newcommand{\@copyrightyear}{\@MissingMetadata{copyrightyear}}
 \newcommand{\@copyrightnotice}{%
     \begin{minipage}{\dimexpr\textwidth-1in\relax}
         \small\centering

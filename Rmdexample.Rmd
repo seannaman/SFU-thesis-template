@@ -1,0 +1,26 @@
+---
+documentclass: sfuthesis
+title: "Salmon are the coolest: implications for everything"
+header-includes: 
+  - \degree{Master of Science}
+  - \thesistype{M.Sc.}
+  - \previousdegrees{B.Sc.}
+  - \semester{Fall 2020}
+  - \department{School of Resource and Environmental Management}
+  - \copyrightyear{2020}
+  - 
+author: Daniella
+output:
+  pdf_document:
+    keep_tex: yes
+    latex_engine: xelatex 
+bibliography: references.bib
+
+---
+
+
+
+
+
+## Introduction
+
