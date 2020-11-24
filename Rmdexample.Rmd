@@ -8,8 +8,8 @@ header-includes:
   - \semester{Fall 2020}
   - \department{School of Resource and Environmental Management}
   - \copyrightyear{2020}
-  - 
-author: Daniella
+
+author: Daniella LoScerbo
 output:
   pdf_document:
     keep_tex: yes
