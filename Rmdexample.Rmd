@@ -9,7 +9,7 @@ header-includes:
   - \department{School of Resource and Environmental Management}
   - \copyrightyear{2020}
 
-author: Daniella LoScerbo
+author: Trouty Troutmen
 output:
   pdf_document:
     keep_tex: yes
