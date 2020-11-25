@@ -20,7 +20,5 @@ bibliography: references.bib
 
 
 
-
-
 ## Introduction
 
